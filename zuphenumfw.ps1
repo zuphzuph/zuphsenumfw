@@ -223,7 +223,7 @@ function subMenu2 {
         $subMenu2 = Read-Host "`nSelection (leave blank to quit)"
         # Option 1
         if($subMenu2 -eq 1){
-            Get-Process -IncludeUserName | Select-Object Id,Name,Username,Path,StartTime | Format-Table -Autosize
+            Get-Process -IncludeUserName | Where UserName | Select-Object Id,Name,UserName,Path,StartTime | Format-Table -Autosize
             [void][System.Console]::ReadKey($true)
         }
         # Option 2
