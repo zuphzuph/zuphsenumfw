@@ -56,7 +56,8 @@ KKXXKKKKKKKXXXKKKKKKKKK0koloodxxxddoolllllodddoloooolllllllllcccccldxkO000000KKK
 XXXXKKKKKXXXXXKKKKKKKKKK0xllooddxddoolllodxkOkxdddddoollcccccc::codkOO00000000000KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK000000000
 XXXXKXXXXXXKXXKKKXXXKKKK0kocllodddoollcldkOO0Okxxxxxdolcccccccc:cdkO0000000000000KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK000000000"
         Write-Host ""
-        Write-Host -ForegroundColor Cyan "Main Menu"
+        Write-Host -ForegroundColor Cyan "
+        Main Menu"
         Write-Host -ForegroundColor DarkCyan -NoNewline "`n["; Write-Host -NoNewline "1"; Write-Host -ForegroundColor DarkCyan -NoNewline "]"; `
             Write-Host -ForegroundColor DarkCyan "Network Sniff"
         Write-Host -ForegroundColor DarkCyan -NoNewline "`n["; Write-Host -NoNewline "2"; Write-Host -ForegroundColor DarkCyan -NoNewline "]"; `
