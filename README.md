@@ -14,9 +14,7 @@ Tool written entirely w/ PowerShell to provide full stack analysis.
 		Tested using PowerShell v5.1 on Windows 10/2016.
 
 	Notes:
-
+	
 		CTRL+C stops the Script Entirely.
-
-		Enter to go back after cmds/scripts have ran and to navigate functions.
-
+		Enter to go back after cmds/scripts have ran to navigate functions.
 		Everything is meant to be as simplistic as possible.
