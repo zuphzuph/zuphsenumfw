@@ -1,12 +1,12 @@
 zuph's enumeration framework
 
-Tool written entirely w/ PowerShell to provide full stack analysis.
+Tool written entirely in PowerShell to provide system analysis.
 
 	Getting Started:
 
 		1. Open PowerShell
 		2. Set-ExecutionPolicy Bypass
-		3. CD to script location
+		3. cd to script location
 		4. ./zuphsenumfw.ps1
 
 	Prerequisites:
