@@ -11,7 +11,7 @@ Tool written entirely w/ PowerShell to provide full stack analysis.
 
 	Prerequisites:
 
-		Tested on using PowerShell v5.1 on Windows 10/2016.
+		Tested using PowerShell v5.1 on Windows 10/2016.
 
 	Notes:
 
