@@ -7,7 +7,7 @@ Tool written entirely in PowerShell to provide system analysis.
 		1. Open PowerShell
 		2. Set-ExecutionPolicy Bypass
 		3. cd to script location
-		4. ./zuphsenumfw.ps1
+		4. ./zuphenumfw.ps1
 
 	Prerequisites:
 
